@@ -1,0 +1,9 @@
+.recipe-details ol {
+    list-style-type: disc; 
+    text-align: left; 
+    margin-top: 10px;
+  }
+  
+  .recipe-details li {
+    margin-bottom: 5px; 
+  }
